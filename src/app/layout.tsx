@@ -14,24 +14,22 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+    title: "Nxr4 Server Dashboard - CoD 1.1 Real-time Monitor",
+  description: "Real-time monitoring dashboard for Nxr4 Call of Duty 1.1 servers. Live player counts, server status, and game information.",
+  keywords: ["Nxr4", "Call of Duty", "CoD 1.1", "Game Server", "Dashboard", "Server Monitor"],
+  authors: [{ name: "Nxr4 Gaming" }],
   icons: {
     icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+        title: "Nxr4 Server Dashboard",
+    description: "Real-time monitoring for Nxr4 CoD 1.1 servers",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+        title: "Nxr4 Server Dashboard",
+    description: "Real-time monitoring for Nxr4 CoD 1.1 servers",
   },
 };
 
